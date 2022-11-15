@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(259,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(158): warning C4716: 'selectArrow': 값을 반환해야 합니다.
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(112): warning C4716: 'inGameScoreBoard': 값을 반환해야 합니다.
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(185): warning C4716: 'diceRollResult': 값을 반환해야 합니다.
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(219): warning C4716: 'bestCombination': 값을 반환해야 합니다.
+C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\yachtDice\main.c(246): warning C4716: 'rerollButton': 값을 반환해야 합니다.
+  yachtDice.vcxproj -> C:\Users\JinseoMyeon\Desktop\Programming\yachtDice\arm64\Debug\yachtDice.exe
